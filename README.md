@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaranjanjha&label=Profile%20views&color=0e75b6&style=flat" alt="adityaranjanjha"/> </p>
 
-<p align="left" width=50px> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityaranjanjha" alt="adityaranjanjha" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/adityaranjanjh5" target="blank"><img src="https://img.shields.io/twitter/follow/adityaranjanjh5?logo=twitter&style=for-the-badge" alt="adityaranjanjh5" /></a> </p>
 
