@@ -32,9 +32,3 @@
 
 <p><img align="center" height="196" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaranjanjha&" alt="adityaranjanjha" /></p>
 
-## Hacktoberfest Achievements
-
-I am participating in Hacktoberfest, an annual event that promotes open source contributions. During this event, I had the opportunity to contribute to various open source projects and earn these badges:
-
-[![An image of @adityaranjanjha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityaranjanjha)](https://holopin.io/@adityaranjanjha)
-
