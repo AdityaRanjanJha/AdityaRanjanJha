@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/adityaranjanjh5" target="blank"><img src="https://img.shields.io/twitter/follow/adityaranjanjh5?logo=twitter&style=for-the-badge" alt="adityaranjanjh5" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **NEXT JS**
 
 - 💬 Ask me about **python , C++ , C , HTML , CSS , Swift**
 
