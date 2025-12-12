@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aditya Ranjan Jha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" height="300" width="300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaranjanjha&label=Profile%20views&color=0e75b6&style=flat" alt="adityaranjanjha"/> </p>
